@@ -1,0 +1,12 @@
+#footer {
+  -webkit-text-stroke: 1px;
+  min-height: 1vh;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  background-color: silver;
+  bottom: 0px;
+  position: absolute;
+  right: 0;
+  left: 0;
+  padding: 0;
+}
